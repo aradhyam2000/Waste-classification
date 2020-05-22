@@ -29,8 +29,6 @@ Many hours of work has gone in collecting and cleaning the data. While the data 
 Also please contribute to the data if possible.
 
 DEPENDENCIES
-Keras
-Tensorflow
-open-cv
-PIL
-matplotlib
+
+
+Keras, Tensorflow, open-cv ,PIL ,matplotlib
